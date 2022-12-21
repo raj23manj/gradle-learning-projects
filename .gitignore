@@ -1,0 +1,19 @@
+**/**/*.class
+
+# Package Files #
+**/**/*.jar
+**/**/*.war
+**/**/*.ear
+
+**/**/bin/
+**/**/target/
+**/**/.settings/
+
+**/**/.metadata
+**/**/.classpath
+**/**/.gradle
+**/**/gradle/
+**/**/build/
+
+.DS_Store
+.idea/
